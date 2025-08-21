@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/Online-Library/static/css/main.1128d4de.css",
+    "main.js": "/Online-Library/static/js/main.368e1e7c.js",
+    "static/js/453.0693e7c0.chunk.js": "/Online-Library/static/js/453.0693e7c0.chunk.js",
+    "static/media/pile-books-bookstore.jpg": "/Online-Library/static/media/pile-books-bookstore.b0481d44705dfb1eba02.jpg",
+    "static/media/book-composition-with-open-book.jpg": "/Online-Library/static/media/book-composition-with-open-book.929925f74beebc048d06.jpg",
+    "static/media/literature-composition.jpg": "/Online-Library/static/media/literature-composition.166845db5d1022eb2474.jpg",
+    "static/media/open-flying-old-books.jpg": "/Online-Library/static/media/open-flying-old-books.d1f202f20bcad07f1591.jpg",
+    "static/media/silhouettes-hills-street-lamps-cloudy-sky-beautiful-sunset.jpg": "/Online-Library/static/media/silhouettes-hills-street-lamps-cloudy-sky-beautiful-sunset.2c924691fee9a6a6f782.jpg",
+    "static/media/m034t0018_book_day_16mar23.jpg": "/Online-Library/static/media/m034t0018_book_day_16mar23.0159d15328a0908ec8b6.jpg",
+    "static/media/arrangement-with-book-light-bulb.jpg": "/Online-Library/static/media/arrangement-with-book-light-bulb.d0d5cc8efaf473d36d40.jpg",
+    "static/media/close-up-idea-concept.jpg": "/Online-Library/static/media/close-up-idea-concept.e80ce7ec27f3a5d02097.jpg",
+    "static/media/composition-with-book-light-bulb.jpg": "/Online-Library/static/media/composition-with-book-light-bulb.046a7d904b493b64784b.jpg",
+    "static/media/3312020.jpg": "/Online-Library/static/media/3312020.b66f916c0404ba0f882c.jpg",
+    "static/media/428033-PE42ON-341.jpg": "/Online-Library/static/media/428033-PE42ON-341.e2e6befad321e21ef127.jpg",
+    "static/media/6822722.jpg": "/Online-Library/static/media/6822722.c9a57a5737fd78ebcd19.jpg",
+    "static/media/4126705.jpg": "/Online-Library/static/media/4126705.fab3c97ce5dfee6441c7.jpg",
+    "static/media/WhatsApp Image 2025-07-07 at 18.09.07_9c17592f.jpg": "/Online-Library/static/media/WhatsApp Image 2025-07-07 at 18.09.07_9c17592f.73184c849f7b875bac51.jpg",
+    "index.html": "/Online-Library/index.html",
+    "main.1128d4de.css.map": "/Online-Library/static/css/main.1128d4de.css.map",
+    "main.368e1e7c.js.map": "/Online-Library/static/js/main.368e1e7c.js.map",
+    "453.0693e7c0.chunk.js.map": "/Online-Library/static/js/453.0693e7c0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1128d4de.css",
+    "static/js/main.368e1e7c.js"
+  ]
+}
