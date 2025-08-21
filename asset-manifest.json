@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Online-Library/static/css/main.1128d4de.css",
-    "main.js": "/Online-Library/static/js/main.368e1e7c.js",
+    "main.js": "/Online-Library/static/js/main.b3d7fac2.js",
     "static/js/453.0693e7c0.chunk.js": "/Online-Library/static/js/453.0693e7c0.chunk.js",
     "static/media/pile-books-bookstore.jpg": "/Online-Library/static/media/pile-books-bookstore.b0481d44705dfb1eba02.jpg",
     "static/media/book-composition-with-open-book.jpg": "/Online-Library/static/media/book-composition-with-open-book.929925f74beebc048d06.jpg",
@@ -19,11 +19,11 @@
     "static/media/WhatsApp Image 2025-07-07 at 18.09.07_9c17592f.jpg": "/Online-Library/static/media/WhatsApp Image 2025-07-07 at 18.09.07_9c17592f.73184c849f7b875bac51.jpg",
     "index.html": "/Online-Library/index.html",
     "main.1128d4de.css.map": "/Online-Library/static/css/main.1128d4de.css.map",
-    "main.368e1e7c.js.map": "/Online-Library/static/js/main.368e1e7c.js.map",
+    "main.b3d7fac2.js.map": "/Online-Library/static/js/main.b3d7fac2.js.map",
     "453.0693e7c0.chunk.js.map": "/Online-Library/static/js/453.0693e7c0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1128d4de.css",
-    "static/js/main.368e1e7c.js"
+    "static/js/main.b3d7fac2.js"
   ]
 }
